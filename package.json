@@ -1,0 +1,16 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "First project of Dio with NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "echo \"==========> Powered by Aly <==========\" && exit 1"
+  },
+  "keywords": [
+    "project",
+    "My first API"
+  ],
+  "author": "AlyDev",
+  "license": "ISC"
+}
